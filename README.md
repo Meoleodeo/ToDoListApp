@@ -3,9 +3,8 @@
 > [Description](#description) | [How To Run](#How_To_Run) | [Screenshot Demo](#screenshot) | [Features](#Features)
 
 ## Description:
-- To Do List made by Flask 
-- This repo has been updated to work with Python v3.8 and up.
-> [_Video-Demo_](https://youtu.be/RMzKPTu2Nwo)
+> To Do List made by Flask 
+> This repo has been updated to work with Python v3.8 and up.
 
 ### Run development server and open http://localhost:5000
 
