@@ -11,8 +11,8 @@
 
 ## How To Run
 1. Install `virtualenv`:
-```
-$ pip install virtualenv
+```bash
+pip install virtualenv
 ```
 2. Open a terminal in the project root directory and run:
 ```bash
