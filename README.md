@@ -38,7 +38,7 @@ if __name__ == "__main__":
 ```
 
 ## Screenshot:
-![DEMO](.png)
+![DEMO](image.png)
 
 ## Features
 
